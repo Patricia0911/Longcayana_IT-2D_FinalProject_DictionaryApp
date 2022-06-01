@@ -4,10 +4,10 @@
 <head>
     <meta charset="utf-8">
     <meta name="description" content="Web app using Php ">
-    <meta name="author" content="Patricia Monick Longcayana">
+     <meta name="author" content="Patricia Monick Longcayana">
     <meta name="application-name" content="TrishDictionary">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Home</title>
+    <title>About</title>
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
@@ -26,37 +26,29 @@
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item"><a class="nav-link text-light" href="index.php">HOME</a></li>
                         <li class="nav-item"><a class="nav-link text-light" href="riddle.php">DICTIONARY</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="about.php">ABOUT</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="contact.php">CONTACT</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="about.php">About</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="contact.php">Contact</a></li>
                     </ul>
                 </div>
             </div>
         </nav>
             
 </header>
-<header class="bg-dark bg-gradient text-white">
-            <div class="over-container d-flex w-100 h-100 p-3 mx-auto flex-column">
-                <h1 class="fw-bolder">Welcome to TrishDictionary</h1>
-            </div>
-</header>
+
 <body class="background">
 
     <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
 
         <main class="px-3">
-            <h1>“Dictionaries are like watches; the worst is better than none, and the best cannot be expected to go quite true.”</h1><br><br>
-            <p class="lead">― Samuel Johnson</p>
+            <h1>ABOUT</h1><br><br>
+            <p class="about">This is website is made for everyone who love dictionary. It is a website that you can look for a certain word that you what to define, find meaning. This website is created to help students to define a certain word.</p>
+            
         </main>
-        <main class="px-3">
-            <h1>“Dictionaries are the record of how people are already using the language, not providers of words for us to start using.”</h1><br><br>
-            <p class="lead">― Gretchen McCulloch</p>
-        </main>
-       
-    </div>
+
 
 </body>
 
-<footer class="py-3 bg-dark">
+    <footer class="py-3 bg-dark">
             <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; 2022. Patricia Monick Longcayana</p></div>
     </footer>
 

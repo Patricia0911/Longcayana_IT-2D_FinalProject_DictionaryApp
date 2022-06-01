@@ -50,9 +50,9 @@
     }
 
 .background {
-        background-color: blueviolet;
+        background-color: lightseagreen;
         text-align: center;
-        padding-top: 10rem;
+        padding-top: 3rem;
     }
 
 .px-3 {
@@ -130,7 +130,4 @@
         text-align: left;
         margin-left: 10rem;
         font-size: 25px;
-    }
-    div {
-        padding-top: 3rem;
     }

@@ -88,6 +88,20 @@
                                 <a class="btn btn-dark btn-sm float-end" href="word06.php" role="button">See Meaning</a>
                             </td>
                         </tr>
+                        <tr>
+                            <td>07</td>
+                            <td>Floccinaucinihilipilification</td>
+                            <td>
+                                <a class="btn btn-dark btn-sm float-end" href="word07.php" role="button">See Meaning</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>08</td>
+                            <td>Floccinaucinihilipilification</td>
+                            <td>
+                                <a class="btn btn-dark btn-sm float-end" href="word08.php" role="button">See Meaning</a>
+                            </td>
+                        </tr>
 
                 </tbody>
                 <tfoot>

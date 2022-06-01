@@ -109,6 +109,13 @@
                                 <a class="btn btn-dark btn-sm float-end" href="word09.php" role="button">See Meaning</a>
                             </td>
                         </tr>
+                        <tr>
+                            <td>10</td>
+                            <td>Ostracism</td>
+                            <td>
+                                <a class="btn btn-dark btn-sm float-end" href="word10.php" role="button">See Meaning</a>
+                            </td>
+                        </tr>
 
                 </tbody>
                 <tfoot>

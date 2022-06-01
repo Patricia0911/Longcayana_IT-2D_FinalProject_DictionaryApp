@@ -74,6 +74,13 @@
                                 <a class="btn btn-dark btn-sm float-end" href="word04.php" role="button">See Meaning</a>
                             </td>
                         </tr>
+                        <tr>
+                            <td>05</td>
+                            <td>Hippopotomonstrosesquippedaliophobia</td>
+                            <td>
+                                <a class="btn btn-dark btn-sm float-end" href="word05.php" role="button">See Meaning</a>
+                            </td>
+                        </tr>
 
                 </tbody>
                 <tfoot>

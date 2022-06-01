@@ -52,7 +52,13 @@
                             <td>
                                 <a class="btn btn-dark btn-sm float-end" href="word01.php" role="button">See Meaning</a>
                             </td>
-
+                        </tr>
+                        <tr>
+                            <td>02</td>
+                            <td>Worcestershire</td>
+                            <td>
+                                <a class="btn btn-dark btn-sm float-end" href="word02.php" role="button">See Meaning</a>
+                            </td>
                         </tr>
                         
 

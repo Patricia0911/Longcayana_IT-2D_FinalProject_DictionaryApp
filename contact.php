@@ -7,7 +7,7 @@
      <meta name="author" content="Patricia Monick Longcayana">
     <meta name="application-name" content="TrishDictionary">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>About</title>
+    <title>Contact</title>
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
@@ -40,8 +40,10 @@
     <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
 
         <main class="px-3">
-            <h1>ABOUT</h1><br><br>
-            <p class="about">This is website is made for everyone who love dictionary. It is a website that you can look for a certain word that you what to define, find meaning. This website is created to help students to define a certain.</p>
+            <h1>CONTACT</h1><br><br>
+            <p class="contact">Email: patricialongcayana@gmail.com</p>
+            <p class="contact">Phone: 09503152267</p>
+            <p class="contact">Facebook Page: TrishDictionary</p>
             
         </main>
 

@@ -3,11 +3,8 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="description" content="Web app using Php ">
-     <meta name="author" content="Patricia Monick Longcayana">
-    <meta name="application-name" content="TrishDictionary">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>About</title>
+    <title>Dictionary</title>
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
@@ -38,23 +35,42 @@
 <body class="background">
 
     <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+        
 
-        <main class="px-3">
-            <h1>ABOUT</h1><br><br>
-            <p class="about">This is website is made for everyone who love dictionary. It is a website that you can look for a certain word that you what to define, find meaning. This website is created to help students to define a certain.</p>
-            
-        </main>
+        <div class="container"><br><br>
 
+            <table class="table table-sm table-striped table-condensed" style="margin-top:20px;">
+                <thead class="table-dark">
+                    <th scope="col">Number</th>
+                    <th scope="col">Word</th>
+                    <th scope="col"></th>
+                </thead>
+                <tbody>
+                        <tr>
+                            <td>Number</td>
+                            <td>Word</td>
+                            <td>
+                                <a class="btn btn-dark btn-sm float-end" href="riddle8.php" role="button">See Meaning</a>
+                            </td>
 
-</body>
+                        </tr>
+                        
 
-    <footer class="py-3 bg-dark">
-            <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; 2022. Patricia Monick Longcayana</p></div>
-    </footer>
+                </tbody>
+                <tfoot>
+                    <th scope="col">Number</th>
+                    <th scope="col">Word</th>
+                    <th scope="col"></th>                        
+                </tfoot>
+            </table>
 
+        </div>
+    </div>
     <!-- JavaScript Bundle with Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous">
     </script>
+
+</body>
 
 </html>

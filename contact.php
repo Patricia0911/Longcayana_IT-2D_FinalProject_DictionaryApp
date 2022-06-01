@@ -25,7 +25,7 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item"><a class="nav-link text-light" href="index.php">HOME</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="riddle.php">DICTIONARY</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="dictionary.php">DICTIONARY</a></li>
                         <li class="nav-item"><a class="nav-link text-light" href="about.php">ABOUT</a></li>
                         <li class="nav-item"><a class="nav-link text-light" href="contact.php">CONTACT</a></li>
                     </ul>

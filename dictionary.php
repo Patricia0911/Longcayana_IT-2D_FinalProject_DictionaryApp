@@ -60,7 +60,13 @@
                                 <a class="btn btn-dark btn-sm float-end" href="word02.php" role="button">See Meaning</a>
                             </td>
                         </tr>
-                        
+                        <tr>
+                            <td>03</td>
+                            <td>Mischievous</td>
+                            <td>
+                                <a class="btn btn-dark btn-sm float-end" href="word03.php" role="button">See Meaning</a>
+                            </td>
+                        </tr>
 
                 </tbody>
                 <tfoot>

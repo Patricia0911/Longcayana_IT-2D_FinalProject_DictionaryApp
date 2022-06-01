@@ -67,6 +67,13 @@
                                 <a class="btn btn-dark btn-sm float-end" href="word03.php" role="button">See Meaning</a>
                             </td>
                         </tr>
+                        <tr>
+                            <td>04</td>
+                            <td>Pneumonoultramicroscopicsilicovolcanoconiosis</td>
+                            <td>
+                                <a class="btn btn-dark btn-sm float-end" href="word04.php" role="button">See Meaning</a>
+                            </td>
+                        </tr>
 
                 </tbody>
                 <tfoot>

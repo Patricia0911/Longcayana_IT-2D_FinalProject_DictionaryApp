@@ -81,6 +81,13 @@
                                 <a class="btn btn-dark btn-sm float-end" href="word05.php" role="button">See Meaning</a>
                             </td>
                         </tr>
+                        <tr>
+                            <td>06</td>
+                            <td>Pseudopseudohypoparathyroidism</td>
+                            <td>
+                                <a class="btn btn-dark btn-sm float-end" href="word06.php" role="button">See Meaning</a>
+                            </td>
+                        </tr>
 
                 </tbody>
                 <tfoot>

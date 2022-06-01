@@ -41,7 +41,7 @@
 
         <main class="px-3">
             <h1>ABOUT</h1><br><br>
-            <p class="about">This is website is made for everyone who love dictionary. It is a website that you can look for a certain word that you what to define, find meaning. This website is created to help students to define a certain.</p>
+            <p class="about">This is website is made for everyone who love dictionary. It is a website that you can look for a certain word that you what to define, find meaning. This website is created to help students to define a certain word.</p>
             
         </main>
 

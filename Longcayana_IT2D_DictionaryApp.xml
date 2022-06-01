@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE TrishDictionary
+[
+
+
+
+<!ELEMENT TrishDictionary (HOME, DICTIONARY, ABOUT, CONTACT)>
+<!ELEMENT HOME (title, heading, subheading)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT heading (#PCDATA)>
+<!ELEMENT body (#PCDATA)>
+<!ELEMENT dictionary (wordlist)>
+<!ELEMENT dictionary (number, word)>
+<!ELEMENT number (#PCDATA)>
+<!ELEMENT word (#PCDATA)>
+<!ELEMENT ABOUT (heading, subheading)>
+<!ELEMENT CONTACT (heading, subheading)>
+
+]>
+<dictionary>
+    <home>
+        <title>TrishDictionary</title>
+        <heading>Welcome to TrishDictionary</heading>
+        <body>“Dictionaries are like watches; the worst is better than none, and the best cannot be expected to go quite true.”</body>
+        <body>― Samuel Johnson</body>
+        <body>“Dictionaries are the record of how people are already using the language, not providers of words for us to start using.”</body>
+        <body>― Gretchen McCulloch</body>
+    </home>
+    <list>
+            <title>Onomatopoeia</title>
+                <meaning>
+                    <line>An onomatopoeia is a word that sounds like the noise it describes. The spelling and pronunciation of that word is directly influenced by the sound it defines in real life. All onomatopoeia words describe specific sounds.</line>
+                    <line>An onomatopoeia is a word that smacks the reader’s ears and makes them pop. Onomatopoeia words describe sounds by copying the sound itself. </line>
+                    <line>An onomatopoeia is the forming of a word by imitating the sound the word is referring to, as in bang, meaning “a loud, explosive sound,” and meow, meaning “the sound a cat makes.”</line>
+                </meaning>
+    </list>
+    <list>
+            <title>Worcestershire</title>
+                <meaning>
+                    <line>A pungent sauce whose ingredients include soy, vinegar, and garlic.</line>
+                    <line>A county in west central England. Its administrative centre is Worcester. The Malvern Hills are on its western border and the Cotswolds on its southern border.</line>
+                    <line>A county in the West Midlands of England. The area that is now Worcestershire was absorbed into the unified Kingdom of England in 927, at which time it was constituted as a county.”</line>
+                </meaning>
+    </list>
+    <list>
+            <title>Mischievous</title>
+                <meaning>
+                    <line>Behaving in a way, or describing behaviour, that is slightly bad but is not intended to cause serious harm or damage.</line>
+                    <line>Causing or likely to cause minor injury or harm a mischievous puppy. </line>
+                    <line>(of a person, animal, or their behavior) causing or showing a fondness for causing trouble in a playful way.</line>
+                </meaning>
+    </list>
+    <list>
+            <title>Pneumonoultramicroscopicsilicovolcanoconiosis</title>
+                <meaning>
+                    <line>A lung disease caused by the inhalation of very fine silicate or quartz dust, causing inflammation in the lungs. </line>
+                    <line>An obscure term ostensibly referring to a lung disease caused by silica dust, sometimes cited as one of the longest words in the English language. </line>
+                    <line>It is a term for a lung disease caused by inhaling silica dust, as in I had trouble breathing and my doctor diagnosed me with pneumonoultramicroscopicsilicovolcanoconiosis.</line>
+                </meaning>
+    </list>
+    <list>
+            <title>Pseudopseudohypoparathyroidism</title>
+                <meaning>
+                    <line>It is an inherited condition that causes short stature, round face, and short hand bones.</line>
+                    <line>It needs no treatment, but genetic counselling is recommended. Our patient declined genetic testing. </line>
+                    <line>The disease is caused by paternally inherited heterozygous molecular defects in the GNAS gene (20q13) encoding the alpha sub-unit of the stimulatory G protein.</line>
+                </meaning>
+    </list>
+    <list>
+            <title>Hippopotomonstrosesquippedaliophobia</title>
+                <meaning>
+                    <line>It is one of the longest words in the dictionary and, in an ironic twist, is the name for a fear of long words.</line>
+                    <line>It is the fear of long words. Ironic, isn't it? It's also referred to as sesquipedalophobia. </line>
+                    <line>It is probably taken from the root word sesquipedalian, which means long word.</line>
+                </meaning>
+    </list>
+    <list>
+            <title>Floccinaucinihilipilification</title>
+                <meaning>
+                    <line>It  is the act of considering something to be worthless, as in I was outraged by the pawn shop owner's floccinaucinihilipilification. </line>
+                    <line>It means the estimation of something as worthless. </line>
+                    <line>It is the estimation of something as valueless.</line>
+                </meaning>
+    </list>
+    <list>
+            <title>Demagogue</title>
+                <meaning>
+                    <line>It  is a political leader who uses rhetoric to appeal to prejudices and desires of ordinary citizens. </line>
+                    <line>Rhetorically exploit (an issue) for political purposes in a way calculated to appeal to the desires and prejudices of ordinary people. </line>
+                    <line>A person, especially an orator or political leader, who gains power and popularity by arousing the emotions, passions, and prejudices.</line>
+                </meaning>
+    </list>
+    <list>
+            <title>Iconoclast</title>
+                <meaning>
+                    <line>A person who attacks cherished beliefs or institutions. </line>
+                    <line>Someone who criticizes or attacks cherished ideas and beliefs. </line>
+                    <line>A person who strongly opposes generally accepted beliefs and traditions.</line>
+                </meaning>
+    </list>
+    <list>
+            <title>Ostracism</title>
+                <meaning>
+                    <line>Excluding a person or certain section from society by majority consent. </line>
+                    <line>The action of intentionally not including someone in a social group or activity. </line>
+                    <line>It  is a method of temporary banishment by popular vote without trial or special accusation practiced in ancient Greece. </line>
+                </meaning>
+    </list>
+    <list>
+            <title>Vociferous</title>
+                <meaning>
+                    <line>Something or someone who is offensively/ conspicuously loud. </line>
+                    <line>It implies a vehement shouting or calling out, but to convey the insistency of a demand or protest, clamorous might be a better choice. </line>
+                    <line>It  is the people express their opinions and complaints loudly and repeatedly in speech, and vociferous demands, etc. are made repeatedly. </line>
+                </meaning>
+    </list>
+
+    <about>
+        <heading>ABOUT</heading>
+        <subheading>This is website is made for everyone who love dictionary. It is a website that you can look for a certain word that you what to define, find meaning. This website is created to help students to define a certain word.</subheading>
+    </about>
+    <contact>
+        <heading>CONTACT</heading>
+        <subheading>Email: patricialongcayana@gmail.com</subheading>
+        <subheading>Phone: 09503152267</subheading>
+        <subheading>Facebook Page: TrishDictionary</subheading>
+    </contact>
+   
+</dictionary>

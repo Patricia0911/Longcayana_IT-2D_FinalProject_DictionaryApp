@@ -47,10 +47,10 @@
                 </thead>
                 <tbody>
                         <tr>
-                            <td>Number</td>
-                            <td>Word</td>
+                            <td>01</td>
+                            <td>Onomatopoeia</td>
                             <td>
-                                <a class="btn btn-dark btn-sm float-end" href="riddle8.php" role="button">See Meaning</a>
+                                <a class="btn btn-dark btn-sm float-end" href="word01.php" role="button">See Meaning</a>
                             </td>
 
                         </tr>
